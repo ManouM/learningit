@@ -21,7 +21,7 @@ public class TestPhotoByIntentAppium {
 	  desiredCapabilities.setCapability("device", "android");
 	  
 	  //next command not needed when AUT started with node server using: node . --app path/to/App/app.apk
-	  desiredCapabilities.setCapability("app", "/Users/mm.BDCDOM/Documents/AUTAPK/photobyintent.apk");
+	  desiredCapabilities.setCapability("app", "D:/AUTAPK/photobyintent.apk");
 	  desiredCapabilities.setCapability("app-package", "com.example.android.photobyintent");
 	  desiredCapabilities.setCapability("app-activity", "com.example.android.photobyintent.PhotoIntentActivity");
 	  URL url = new URL("http://127.0.0.1:4723/wd/hub");

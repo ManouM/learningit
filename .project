@@ -8,4 +8,10 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<variableList>
+		<variable>
+			<name>AUT_APK</name>
+			<value>file:/D:/AUTAPK</value>
+		</variable>
+	</variableList>
 </projectDescription>
