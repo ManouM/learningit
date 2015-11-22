@@ -1,2 +1,2 @@
 # learningit
-created to learn and exercise
+created to learn git and exercise
