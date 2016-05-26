@@ -14,7 +14,9 @@ import java.net.URL;
 import java.util.List;
 
 import static org.junit.Assert.assertEquals;
-
+/*
+ * created by Me
+ */
 public class AndroidTest {
 
     private AppiumDriver driver;
